@@ -1,0 +1,8 @@
+[main]
+home=about:blank
+option1=False
+option2=True
+option3=False
+
+[Search]
+url=http://www.altavista.com
